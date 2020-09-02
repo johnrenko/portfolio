@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import lettrage from "./lettrage.png";
 import "./App.css";
 
